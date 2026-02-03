@@ -1,0 +1,10 @@
+0.0.0.0 cnn.com
+0.0.0.0 www.cnn.com
+0.0.0.0 bbc.com
+0.0.0.0 www.bbc.com
+0.0.0.0 nytimes.com
+0.0.0.0 www.nytimes.com
+0.0.0.0 theguardian.com
+0.0.0.0 www.theguardian.com
+0.0.0.0 sabah.com
+0.0.0.0 www.sabah.com

@@ -1,0 +1,14 @@
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com

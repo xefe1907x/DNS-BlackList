@@ -1,0 +1,6 @@
+0.0.0.0 bet365.com
+0.0.0.0 www.bet365.com
+0.0.0.0 1xbet.com
+0.0.0.0 www.1xbet.com
+0.0.0.0 pokerstars.com
+0.0.0.0 www.pokerstars.com
